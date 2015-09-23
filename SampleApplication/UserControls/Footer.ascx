@@ -11,22 +11,22 @@
             </ul>
 
             <ul class="pull-right" id="social">
-                <li><a href="https://www.planomatic.com/blog" target="_blank">
+                <li><a href="https://www.ifocusfotos.com/blog" target="_blank">
                     <img alt="Blog" src="/assets/social_rss.png"></a>
                 </li>
-                <li><a href="https://www.instagram.com/planomatic" target="_blank">
+                <li><a href="https://www.instagram.com/ifocusfotos" target="_blank">
                     <img alt="Instagram" src="/assets/social_instagram.png"></a>
                 </li>
-                <li><a href="https://www.pinterest.com/planomatic" target="_blank">
+                <li><a href="https://www.pinterest.com/ifocusfotos" target="_blank">
                     <img alt="Pinterest" src="/assets/social_pinterest.png"></a>
                 </li>
-                <li><a href="https://www.linkedin.com/company/planomatic" target="_blank">
+                <li><a href="https://www.linkedin.com/company/ifocusfotos" target="_blank">
                     <img alt="LinkedIn" src="/assets/social_linkedin.png"></a>
                 </li>
-                <li><a href="https://www.twitter.com/planomatic" target="_blank">
+                <li><a href="https://www.twitter.com/ifocusfotos" target="_blank">
                     <img alt="Twitter" src="/assets/social_twitter.png"></a>
                 </li>
-                <li><a href="https://www.facebook.com/planomatic" target="_blank">
+                <li><a href="https://www.facebook.com/ifocusfotos" target="_blank">
                     <img alt="Facebook" src="/assets/social_facebook.png"></a>
                 </li>
             </ul>
