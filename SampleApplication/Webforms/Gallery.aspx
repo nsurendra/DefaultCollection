@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Samples.aspx.cs" Inherits="SampleApplication.Webforms.Samples" %>
+﻿<%@ Page Title="Gallery" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Gallery.aspx.cs" Inherits="SampleApplication.Webforms.Samples" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
      <style>

@@ -2,10 +2,10 @@
 <%@ Register Src="~/UserControls/Footer.ascx" TagName="Footer" TagPrefix="RETA" %>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="background">
 <head runat="server">
     <meta charset="utf-8" />
-    <title><%: Page.Title %> - My ASP.NET Application</title>
+    <title>iFocusfotos - <%:Page.Title %> </title>
     <asp:PlaceHolder runat="server">     
           <%: Scripts.Render("~/bundles/modernizr") %>
     </asp:PlaceHolder>  
@@ -41,7 +41,7 @@
         <div class="content-wrapper">
             <div class="float-left">
                 <p class="site-title">
-                    <a runat="server" href="~/">your logo here</a>
+                    <a runat="server" href="~/">iFocusfotos</a>
                 </p>
             </div>
             <div class="float-right">
@@ -62,12 +62,18 @@
                         </LoggedInTemplate>
                     </asp:LoginView>
                 </section>
-                <nav>
-                    <ul id="menu">
-                        <li><a runat="server" href="~/">Home</a></li>
-                        <li><a runat="server" href="~/Webforms/Services">Services</a></li>
-                        <li><a runat="server" href="~/Webforms/Samples">Samples</a></li>
+                <nav class ="menu">
+                    <ul id="topMenu">
+                        <li><a runat="server" href="~/">Home</a></li>                       
+                        <li><a runat="server" href="~/Webforms/Gallery">Gallery</a></li>
                         <li><a runat="server" href="~/Webforms/About">About</a></li>
+                        <li><a runat="server" href="~/Webforms/Blog">Blog</a></li>
+                        <li><a runat="server" href="~/Webforms/Contact">123-456-7890</a></li>
+                    </ul>
+                    <ul id="BottomMenu">                        
+                        <li><a runat="server" href="~/Webforms/Services">Services</a></li>
+                        <li><a runat="server" href="~/Webforms/HowItWorks">How It Works</a></li>
+                        <li><a runat="server" href="~/Webforms/Pricing">Pricing</a></li>                        
                         <li><a runat="server" href="~/Webforms/Contact">Contact</a></li>
                     </ul>
                 </nav>

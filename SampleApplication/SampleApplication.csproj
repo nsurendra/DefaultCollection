@@ -19,6 +19,7 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -133,6 +134,7 @@
     <Content Include="Content\bootstrap\bootstrap.min.css" />
     <Content Include="Content\Footer.css" />
     <Content Include="Content\mail1.css" />
+    <Content Include="Images\IfocusFoto1.jpg" />
     <Content Include="UserControls\Footer.ascx" />
     <Content Include="Webforms\About.aspx" />
     <Content Include="Account\Login.aspx" />
@@ -214,11 +216,11 @@
     <Content Include="Global.asax" />
     <Content Include="packages.config" />
     <Content Include="Webforms\HtmlPage1.html" />
-    <Content Include="Webforms\Samples.aspx" />
+    <Content Include="Webforms\Gallery.aspx" />
     <Content Include="Webforms\Services.aspx" />
     <Content Include="Content\bootstrap\bootstrap-theme.css.map" />
     <Content Include="Content\bootstrap\bootstrap.css.map" />
-    <Content Include="Webforms\WebForm1.aspx" />
+    <Content Include="Webforms\Blog.aspx" />
     <None Include="Scripts\jquery-1.8.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.8.2.js" />
     <Content Include="Scripts\jquery-1.8.2.min.js" />
@@ -352,12 +354,12 @@
     <Compile Include="ViewSwitcher.ascx.designer.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
     </Compile>
-    <Compile Include="Webforms\Samples.aspx.cs">
-      <DependentUpon>Samples.aspx</DependentUpon>
+    <Compile Include="Webforms\Gallery.aspx.cs">
+      <DependentUpon>Gallery.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Webforms\Samples.aspx.designer.cs">
-      <DependentUpon>Samples.aspx</DependentUpon>
+    <Compile Include="Webforms\Gallery.aspx.designer.cs">
+      <DependentUpon>Gallery.aspx</DependentUpon>
     </Compile>
     <Compile Include="Webforms\Services.aspx.cs">
       <DependentUpon>Services.aspx</DependentUpon>
@@ -366,12 +368,12 @@
     <Compile Include="Webforms\Services.aspx.designer.cs">
       <DependentUpon>Services.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Webforms\WebForm1.aspx.cs">
-      <DependentUpon>WebForm1.aspx</DependentUpon>
+    <Compile Include="Webforms\Blog.aspx.cs">
+      <DependentUpon>Blog.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Webforms\WebForm1.aspx.designer.cs">
-      <DependentUpon>WebForm1.aspx</DependentUpon>
+    <Compile Include="Webforms\Blog.aspx.designer.cs">
+      <DependentUpon>Blog.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

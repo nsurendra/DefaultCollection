@@ -1,6 +1,6 @@
-﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="SampleApplication._Default" %>
+﻿<%@ Page Title="Real Estate Photograp" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="SampleApplication._Default" %>
 
-<asp:Content runat="server" ID="FeaturedContent" ContentPlaceHolderID="FeaturedContent">
+<%--<asp:Content runat="server" ID="FeaturedContent" ContentPlaceHolderID="FeaturedContent">
     <section class="featured">
         <div class="content-wrapper">
             <hgroup class="title">
@@ -15,10 +15,20 @@
             </p>
         </div>
     </section>
-</asp:Content>
+</asp:Content>--%>
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
-    <h3>We suggest the following:</h3>
-    <ol class="round">
+     <style type='text/css'>
+        .background {   
+         background: url("../Images/IfocusFoto1.jpg") no-repeat;
+    background-repeat:no-repeat;
+    background-attachment:scroll;  
+    background-size: 100%;
+   height:1000px;    
+        }
+    </style>
+    <section class="background">
+   <%--  <h3>We suggest the following:</h3>
+   <ol class="round">
         <li class="one">
             <h5>Getting Started</h5>
             ASP.NET Web Forms lets you build dynamic websites using a familiar drag-and-drop, event-driven model.
@@ -35,5 +45,6 @@
             You can easily find a web hosting company that offers the right mix of features and price for your applications.
             <a href="http://go.microsoft.com/fwlink/?LinkId=245143">Learn more…</a>
         </li>
-    </ol>
+    </ol>--%>
+        </section>
 </asp:Content>
