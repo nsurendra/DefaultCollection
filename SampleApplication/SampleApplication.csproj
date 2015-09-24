@@ -136,6 +136,7 @@
     <Content Include="Content\mail1.css" />
     <Content Include="Images\IfocusFoto1.jpg" />
     <Content Include="UserControls\Footer.ascx" />
+    <Content Include="UserControls\Header.ascx" />
     <Content Include="Webforms\About.aspx" />
     <Content Include="Account\Login.aspx" />
     <Content Include="Account\Manage.aspx" />
@@ -143,7 +144,7 @@
     <Content Include="Account\Register.aspx" />
     <Content Include="Account\RegisterExternalLogin.aspx" />
     <Content Include="Webforms\Contact.aspx" />
-    <Content Include="Content\Site.css" />
+    <Content Include="Content\Master.css" />
     <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png" />
@@ -271,6 +272,13 @@
     </Compile>
     <Compile Include="UserControls\Footer.ascx.designer.cs">
       <DependentUpon>Footer.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Header.ascx.cs">
+      <DependentUpon>Header.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\Header.ascx.designer.cs">
+      <DependentUpon>Header.ascx</DependentUpon>
     </Compile>
     <Compile Include="Webforms\About.aspx.cs">
       <DependentUpon>About.aspx</DependentUpon>

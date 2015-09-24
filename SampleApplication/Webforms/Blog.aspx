@@ -15,19 +15,19 @@
                         <div class="col-md-3 col-lg-3 padding-top-point-six">
                             <div class="gallerylink inline-block">
                                 <a href="#" class="galleryswap galleryitem">
-                                    <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://photoplan.planomatic.com/v4/public/images/icon-gallery2.png" alt="Gallery" />
+                                    <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://photoplan.iFocusFotos.com/v4/public/images/icon-gallery2.png" alt="Gallery" />
                                     <div class="swaptext">Gallery</div>
                                 </a>
                             </div>
                             <div class="gallerylink inline-block">
                                 <a href="#" class="galleryitem youtubeclickphoto">
-                                    <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://photoplan.planomatic.com/v4/public/images/play-button.png" alt="Gallery" />
+                                    <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://photoplan.iFocusFotos.com/v4/public/images/play-button.png" alt="Gallery" />
                                     <div class="swaptext">Video</div>
                                 </a>
                             </div>
                             <div class="gallerylink inline-block">
                                 <a href="#" class="galleryitem open-matterport">
-                                    <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://photoplan.planomatic.com/v4/public/images/matterport-logo.png" alt="Gallery" />
+                                    <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://photoplan.iFocusFotos.com/v4/public/images/matterport-logo.png" alt="Gallery" />
                                     <div class="swaptext">3D</div>
                                 </a>
                             </div>
@@ -47,19 +47,19 @@
                         <div class="col-sm-4 col-xs-4 padding-top-point-six">
                             <div class="gallerylink inline-block">
                                 <a href="#" class="galleryswap galleryitem">
-                                    <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://photoplan.planomatic.com/v4/public/images/icon-gallery2.png" alt="Gallery" />
+                                    <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://photoplan.iFocusFotos.com/v4/public/images/icon-gallery2.png" alt="Gallery" />
                                     <div class="swaptext">Gallery</div>
                                 </a>
                             </div>
                             <div class="gallerylink inline-block">
                                 <a href="#" class="galleryitem youtubeclickphoto">
-                                    <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://photoplan.planomatic.com/v4/public/images/play-button.png" alt="Gallery" />
+                                    <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://photoplan.iFocusFotos.com/v4/public/images/play-button.png" alt="Gallery" />
                                     <div class="swaptext">Video</div>
                                 </a>
                             </div>
                             <div class="gallerylink inline-block">
                                 <a href="#" class="galleryitem open-matterport">
-                                    <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://photoplan.planomatic.com/v4/public/images/matterport-logo.png" alt="Gallery" />
+                                    <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://photoplan.iFocusFotos.com/v4/public/images/matterport-logo.png" alt="Gallery" />
                                     <div class="swaptext">3D</div>
                                 </a>
                             </div>

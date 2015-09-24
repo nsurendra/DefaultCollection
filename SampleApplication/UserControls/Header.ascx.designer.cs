@@ -7,54 +7,72 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SampleApplication {
+namespace SampleApplication.UserControls {
     
     
-    public partial class SiteMaster {
+    public partial class Header {
         
         /// <summary>
-        /// HeadContent control.
+        /// Logo control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ContentPlaceHolder HeadContent;
+        protected global::System.Web.UI.HtmlControls.HtmlAnchor Logo;
         
         /// <summary>
-        /// Header1 control.
+        /// loginView control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::SampleApplication.UserControls.Header Header1;
+        protected global::System.Web.UI.WebControls.LoginView loginView;
         
         /// <summary>
-        /// FeaturedContent control.
+        /// Home control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ContentPlaceHolder FeaturedContent;
+        protected global::System.Web.UI.HtmlControls.HtmlAnchor Home;
         
         /// <summary>
-        /// MainContent control.
+        /// Gallery control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ContentPlaceHolder MainContent;
+        protected global::System.Web.UI.HtmlControls.HtmlAnchor Gallery;
         
         /// <summary>
-        /// Footer1 control.
+        /// About control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::SampleApplication.UserControls.Footer Footer1;
+        protected global::System.Web.UI.HtmlControls.HtmlAnchor About;
+        
+        /// <summary>
+        /// Blog control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlAnchor Blog;
+        
+        /// <summary>
+        /// PhoneNo control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlAnchor PhoneNo;
     }
 }

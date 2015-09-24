@@ -65,28 +65,28 @@
     <div id="samples" class="container">
         <div class="sample col-sm-4 col-md-3  col-xs-12 texas hidden-xs" data-order="104">
             <a href="/webforms/webform1.aspx" target="_blank">
-                <img src="https://s3.amazonaws.com/planomatic-assets-dev.planomatic.com/refinery/images/texas_modern.jpg" alt="photo" />
+                <img src="https://s3.amazonaws.com/iFocusFotos-assets-dev.iFocusFotos.com/refinery/images/texas_modern.jpg" alt="photo" />
             </a>
             <p class="h4-subcopy">Texas</p>
         </div>
 
         <div class="sample col-sm-4 col-md-3  col-xs-12 texas" data-order="107">
             <a href="/30918" target="_blank">
-                <img src="https://s3.amazonaws.com/planomatic-assets.planomatic.com/refinery/images/Texas.jpg" alt="photo" />
+                <img src="https://s3.amazonaws.com/iFocusFotos-assets.iFocusFotos.com/refinery/images/Texas.jpg" alt="photo" />
             </a>
             <p class="h4-subcopy">Texas with Twilight</p>
         </div>
 
         <div class="sample col-sm-4 col-md-3  col-xs-12 texas hidden-xs" data-order="111">
             <a href="/36617" target="_blank">
-                <img src="https://s3.amazonaws.com/planomatic-assets.planomatic.com/refinery/images/Texas-with-PlanoMotion.jpg" alt="photo" />
+                <img src="https://s3.amazonaws.com/iFocusFotos-assets.iFocusFotos.com/refinery/images/Texas-with-PlanoMotion.jpg" alt="photo" />
             </a>
             <p class="h4-subcopy">Texas with PlanoMotion</p>
         </div>
 
         <div class="sample col-sm-4 col-md-3  col-xs-12 texas hidden-xs" data-order="116">
             <a href="/32374" target="_blank">
-                <img src="https://s3.amazonaws.com/planomatic-assets.planomatic.com/refinery/images/Texas-with-Twilight.jpg" alt="photo" />
+                <img src="https://s3.amazonaws.com/iFocusFotos-assets.iFocusFotos.com/refinery/images/Texas-with-Twilight.jpg" alt="photo" />
             </a>
             <p class="h4-subcopy">Texas with Twilight</p>
         </div>      

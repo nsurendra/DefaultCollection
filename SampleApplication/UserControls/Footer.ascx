@@ -4,9 +4,9 @@
     <div class="container">
         <div class="row">
             <ul class="pull-left hidden-xs" id="main">
-                <li><a href="//www.planomatic.com/services">Services</a>
+                <li><a href="//www.iFocusFotos.com/services">Services</a>
                 </li>
-                <li><a href="//www.planomatic.com/contact">Contact</a>
+                <li><a href="//www.iFocusFotos.com/contact">Contact</a>
                 </li>
             </ul>
 
@@ -33,37 +33,31 @@
 
             <ul class="pull-left hidden-xs" id="utility">
                 <li>
-                    <a href="//www.planomatic.com">Home</a>
+                    <a href="//www.iFocusFotos.com">Home</a>
                 </li>
 
                 <li>
-                    <a href="//www.planomatic.com/about">About</a>
+                    <a href="//www.iFocusFotos.com/about">About</a>
                 </li>
 
                 <li>
-                    <a href="//www.planomatic.com/samples">Samples</a>
+                    <a href="//www.iFocusFotos.com/Gallery">Gallery</a>
                 </li>
 
                 <li>
-                    <a href="//www.planomatic.com/testimonials">Testimonials</a>
+                    <a href="//www.iFocusFotos.com/testimonials">Testimonials</a>
                 </li>
 
                 <li>
-                    <a href="//www.planomatic.com/opportunities">Opportunities</a>
+                    <a href="//www.iFocusFotos.com/opportunities">Opportunities</a>
                 </li>
-
-                <li>
-                    <a href="//search.planomatic.com">Search</a>
-                </li>
-
-                <li>
-                    <a href="//client.planomatic.com/" target="_blank">Client Login</a>
-                </li>
+               <%-- <li>
+                    <a href="//client.iFocusFotos.com/" target="_blank">Client Login</a>
+                </li>--%>
             </ul>
 
             <div class="pull-right " id="fine-print">
-                <p>&copy; <%: DateTime.Now.Year %> - My ASP.NET Application</p>
-
+                <p>&copy; <%: DateTime.Now.Year %> - ifocusfotos</p>
                 <ul class="pull-right hidden-xs">
                     <li>
                         <a href="#" data-target="#privacyPolicy" data-toggle="modal">Privacy</a>
