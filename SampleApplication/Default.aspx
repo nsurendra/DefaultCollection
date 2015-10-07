@@ -31,12 +31,12 @@
             background-image: url("../Images/IfocusFoto1.jpg");
             background-repeat:no-repeat; */
 
-             background: url("../Images/IfocusFoto1.jpg") no-repeat center center fixed; 
+             /*background: url("../Images/IfocusFoto1.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  height:800px;
+  height:800px;*/
         }
     </style>
     <%--<div>
