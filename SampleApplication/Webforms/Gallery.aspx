@@ -89,7 +89,56 @@
                 <img src="https://s3.amazonaws.com/iFocusFotos-assets.iFocusFotos.com/refinery/images/Texas-with-Twilight.jpg" alt="photo" />
             </a>
             <p class="h4-subcopy">Texas with Twilight</p>
-        </div>      
+        </div>
+        <div class="sample col-sm-4 col-md-3 col-xs-12 texas hidden-xs" data-order="117">
+              <a href="/32374" target="_blank">
+                <img src="https://s3.amazonaws.com/iFocusFotos-assets.iFocusFotos.com/refinery/images/Texas-with-Twilight.jpg" alt="photo" />
+            </a>
+            <p class="h4-subcopy">Texas with Twilight</p>
+            </div>
+        <div class="sample col-sm-4 col-md-3 col-xs-12 texas hidden-xs" data-order="117">
+              <a href="/32374" target="_blank">
+                <img src="https://s3.amazonaws.com/iFocusFotos-assets.iFocusFotos.com/refinery/images/Texas-with-Twilight.jpg" alt="photo" />
+            </a>
+            <p class="h4-subcopy">Texas with Twilight</p>
+        </div>  
+         <div class="sample col-sm-4 col-md-3 col-xs-12 texas hidden-xs" data-order="117">
+              <a href="/32374" target="_blank">
+                <img src="https://s3.amazonaws.com/iFocusFotos-assets.iFocusFotos.com/refinery/images/Texas-with-Twilight.jpg" alt="photo" />
+            </a>
+            <p class="h4-subcopy">Texas with Twilight</p>
+            </div>
+        <div class="sample col-sm-4 col-md-3 col-xs-12 texas hidden-xs" data-order="117">
+              <a href="/32374" target="_blank">
+                <img src="https://s3.amazonaws.com/iFocusFotos-assets.iFocusFotos.com/refinery/images/Texas-with-Twilight.jpg" alt="photo" />
+            </a>
+            <p class="h4-subcopy">Texas with Twilight</p>
+        </div>  
+
+         <div class="sample col-sm-4 col-md-3 col-xs-12 texas hidden-xs" data-order="117">
+              <a href="/32374" target="_blank">
+                <img src="https://s3.amazonaws.com/iFocusFotos-assets.iFocusFotos.com/refinery/images/Texas-with-Twilight.jpg" alt="photo" />
+            </a>
+            <p class="h4-subcopy">Texas with Twilight</p>
+            </div>
+        <div class="sample col-sm-4 col-md-3 col-xs-12 texas hidden-xs" data-order="117">
+              <a href="/32374" target="_blank">
+                <img src="https://s3.amazonaws.com/iFocusFotos-assets.iFocusFotos.com/refinery/images/Texas-with-Twilight.jpg" alt="photo" />
+            </a>
+            <p class="h4-subcopy">Texas with Twilight</p>
+        </div>  
+         <div class="sample col-sm-4 col-md-3 col-xs-12 texas hidden-xs" data-order="117">
+              <a href="/32374" target="_blank">
+                <img src="https://s3.amazonaws.com/iFocusFotos-assets.iFocusFotos.com/refinery/images/Texas-with-Twilight.jpg" alt="photo" />
+            </a>
+            <p class="h4-subcopy">Texas with Twilight</p>
+            </div>
+        <div class="sample col-sm-4 col-md-3 col-xs-12 texas hidden-xs" data-order="117">
+              <a href="/32374" target="_blank">
+                <img src="https://s3.amazonaws.com/iFocusFotos-assets.iFocusFotos.com/refinery/images/Texas-with-Twilight.jpg" alt="photo" />
+            </a>
+            <p class="h4-subcopy">Texas with Twilight</p>
+        </div>  
 
     </div>    
 </asp:Content>
